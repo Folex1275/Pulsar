@@ -434,7 +434,7 @@ Issues tagged `good first issue` are a great place to start.
 
 ## License
 
-Apache 2.0 — see [LICENSE](./LICENSE).
+MIT LICENSE — see [LICENSE](./LICENSE).
 
 ---
 
