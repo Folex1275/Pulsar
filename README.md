@@ -408,7 +408,6 @@ A governance-controlled protocol fee (proposed: 0.1% of billing volume) may be i
 ### v2.0 — Governance + extensions
 - [ ] Protocol fee governance (on-chain vote)
 - [ ] Conditional billing (amount varies per cycle based on usage oracle)
-- [ ] StellarStream integration (hybrid stream + subscription billing)
 - [ ] Native Freighter wallet UI for subscription management
 
 ---
