@@ -4,7 +4,7 @@
 
 Pulsar enables non-custodial recurring payments — pull-based, permissionless, and fully on-chain. Users authorize a billing schedule once. Merchants collect reliably. No custodian holds funds between cycles. Built on Soroban smart contracts with native Stellar path payments.
 
-> Part of the StellarStream ecosystem. If StellarStream streams value by the second, Pulsar delivers it on a schedule.
+
 
 ---
 
@@ -434,8 +434,8 @@ Issues tagged `good first issue` are a great place to start.
 
 ## License
 
-MIT LICENSE — see [LICENSE](./LICENSE).
+MIT — see [LICENSE](./LICENSE).
 
 ---
 
-*Pulsar is part of the StellarStream ecosystem. Built on [Stellar](https://stellar.org) and [Soroban](https://soroban.stellar.org).*
+*Built on [Stellar](https://stellar.org) and [Soroban](https://soroban.stellar.org).*
