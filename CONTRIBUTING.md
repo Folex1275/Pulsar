@@ -319,11 +319,9 @@ Integration tests are not required for documentation-only PRs but are strongly e
 ## Pull request process
 
 1. Ensure `cargo test` and `pnpm test` both pass locally before opening a PR.
-2. Fill in the PR template. Incomplete PRs will be marked `needs-info` and may be closed if unresponsive for 14 days.
-3. All PRs require at least one approving review from a maintainer before merging.
-4. PRs that touch contract logic require two approving reviews.
-5. Maintainers may request changes. Address feedback with new commits — do not force-push during review as it makes re-review harder.
-6. Once approved, a maintainer will squash-merge your PR into `main`.
+2. All PRs require at least one approving review from a maintainer before merging.
+3. Maintainers may request changes. Address feedback with new commits — do not force-push during review as it makes re-review harder.
+4. Once approved, a maintainer will squash-merge your PR into `main`.
 
 ### PR checklist
 
